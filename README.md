@@ -1,8 +1,8 @@
-###🎬 Movie RESTful API with Spring Boot
+#🎬 Movie RESTful API with Spring Boot
 
 This project is a powerful Movie RESTful API built using Spring Boot, incorporating essential backend features such as database configuration, file handling, exception handling, pagination & sorting, JWT authentication, and email notifications. This API allows users to manage a movie database efficiently while ensuring security and scalability.
 
-✨ Features
+## ✨ Features
 
 ✅ Database Configuration - Connects seamlessly to an SQL database with optimized schema design.
 ✅ File Handling - Supports uploading and retrieving movie-related files.
@@ -14,7 +14,7 @@ This project is a powerful Movie RESTful API built using Spring Boot, incorporat
 ✅ Forgot/Reset Password - Enables users to securely reset their passwords.
 ✅ Email Notifications - Automatically notifies users when a new movie is added.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Backend: Java, Spring Boot, Spring Security, Hibernate (JPA)
 
